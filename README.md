@@ -37,7 +37,9 @@ The agent uses an LLM (gpt-3.5-turbo) to interpret the input and call a search_b
 The tool queries the Google Books API to fetch relevant books. <br>
 The final recommendations are displayed in a readable format. <br>
 Judgeval traces the interaction and scores output relevance for observability and debugging. <br>
-![img]("https://github.com/user-attachments/assets/f7814f46-f2aa-4f6f-8a32-150ddd2a0bc0")
+![img](https://github.com/user-attachments/assets/b2725000-60aa-412e-9e61-3d70d21b8af8)
+
+
 
 
 ## Example Output
