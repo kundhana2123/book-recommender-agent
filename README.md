@@ -37,7 +37,8 @@ The agent uses an LLM (gpt-3.5-turbo) to interpret the input and call a search_b
 The tool queries the Google Books API to fetch relevant books. <br>
 The final recommendations are displayed in a readable format. <br>
 Judgeval traces the interaction and scores output relevance for observability and debugging. <br>
-![img](https://file%252B.vscode-resource.vscode-cdn.net/Users/kundhana_hp/Downloads/book-recommender-agent/architecture.png?version%253D1752444710589)
+![img]("https://github.com/user-attachments/assets/f7814f46-f2aa-4f6f-8a32-150ddd2a0bc0")
+
 
 ## Example Output
 Welcome to the Book Recommender Agent! <br>
