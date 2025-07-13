@@ -31,7 +31,7 @@ OPENAI_API_KEY=your_openai_key <br>
 JUDGMENT_API_KEY=your_judgeval_key <br>
 JUDGMENT_ORG_ID=your_judgeval_org_id <br>
 
-### How It Works
+## How It Works
 The user is prompted to enter the type of books they’re looking for. <br>
 The agent uses an LLM (gpt-3.5-turbo) to interpret the input and call a search_books_tool. <br>
 The tool queries the Google Books API to fetch relevant books. <br>
